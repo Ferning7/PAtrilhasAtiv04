@@ -1,9 +1,9 @@
-Atividade 04 Senai
-PROGRAMAÇÃO DE APLICATIVOS
-INSTRUTOR: RODOLFO CLEPF DE CARVALHO
+## Atividade 04 Senai
+# PROGRAMAÇÃO DE APLICATIVOS
+## INSTRUTOR: RODOLFO CLEPF DE CARVALHO
 Atividade desenvolvida para o curso desenvolvimento de sistema do SENAI CTTI, instruida pelo pofessor Rodolfo
 
-Enunciados da lista 4
+## Enunciados da lista 4
 a) Escreva um programa que pergunte ao usuário sua idade e se tem carteira de motorista. Se o usuário tiver mais de 18 anos e possuir carteira de motorista, o programa deve imprimir "Você pode dirigir".\
 b) Escreva um programa que pergunte ao usuário se ele deseja comprar um carro novo e se tem dinheiro suficiente para isso. Se o usuário quiser comprar um carro novo e tiver dinheiro suficiente, o programa deve imprimir "Parabéns, você pode comprar um carro novo!".\
 c) Escreva um programa que pergunte ao usuário se ele possui um diploma de ensino superior e se tem mais de 21 anos. Se o usuário possuir um diploma de ensino superior e tiver mais de 21 anos, o programa deve imprimir "Parabéns, você está qualificado para a vaga!".\
@@ -20,7 +20,7 @@ m) Escreva um programa que pergunte ao usuário se ele não é um membro inativo
 n) Crie um programa que peça ao usuário para digitar uma palavra e verifique se ela não é vazia. Se a condição for verdadeira, o programa deve imprimir "A palavra não é vazia".\
 o) Escreva um programa que pergunte ao usuário se ele não deseja cancelar uma operação. Se a resposta for negativa, o programa deve imprimir "Por favor, confirme o cancelamento da operação".\
 
-Enunciados da lista 5
+## Enunciados da lista 5
 a) Verifique se um número é par ou ímpar.\
 b) Encontre o maior entre dois números.\
 c) Verifique se uma lista está vazia.\
