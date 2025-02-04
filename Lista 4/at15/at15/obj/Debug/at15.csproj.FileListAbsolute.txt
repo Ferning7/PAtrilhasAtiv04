@@ -1,0 +1,6 @@
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at15\at15\obj\Debug\at15.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at15\at15\bin\Debug\at15.exe.config
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at15\at15\bin\Debug\at15.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at15\at15\bin\Debug\at15.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at15\at15\obj\Debug\at15.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at15\at15\obj\Debug\at15.pdb

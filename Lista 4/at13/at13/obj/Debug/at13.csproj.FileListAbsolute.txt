@@ -1,0 +1,6 @@
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at13\at13\bin\Debug\at13.exe.config
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at13\at13\bin\Debug\at13.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at13\at13\bin\Debug\at13.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at13\at13\obj\Debug\at13.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at13\at13\obj\Debug\at13.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\at13\at13\obj\Debug\at13.pdb
